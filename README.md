@@ -54,9 +54,6 @@ Outputs:
 ```
 ├── B22AI064_prob4.py          # Main classifier script
 ├── bbc-text.csv               # Dataset
-├── report.tex                 # LaTeX report
-├── test_bbc_classifier.py     # Unit tests
-├── test_prediction.py         # Prediction tests
 └── outputs/
     ├── model_comparison_bar_chart.png
     └── confusion_matrices.png
